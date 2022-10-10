@@ -1,0 +1,40 @@
+body {
+    background-color: #D5D5D5;
+}
+
+#content {
+    margin-top: 80px;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    background-color: #FAC8CD;
+    color: #333;
+}
+
+.navbar .navbar-nav .nav-link {
+    padding: 0.6em;
+}
+
+.navbar .navbar-brand {
+    padding: 0 0.6em;
+}
+
+  @media only screen and (min-width: 992px) {
+    .navbar {
+        padding: 0;
+    }
+    .navbar .navbar-nav .nav-link {
+        padding: 1em 0.7em;
+    }
+    .navbar .navbar-brand {
+        padding: 0 0.8em;
+    }
+}
+
+
+/* 
+#D7BCC8
+#98B6B1
+#629677
+#495D63 
+*/
