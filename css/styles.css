@@ -1,3 +1,11 @@
+body {
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Quattrocento', serif;
+}
+
 img {
     width: 80%;
 }
@@ -25,3 +33,9 @@ img {
 #clubs .row .col img{
     padding: 20px;
 } 
+
+
+
+h3 span, h4 span {
+	font-family: 'Quattrocento Sans', sans-serif;
+}

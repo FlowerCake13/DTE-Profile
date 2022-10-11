@@ -2,6 +2,10 @@ body {
     background-color: #D5D5D5;
 }
 
+.navbar-brand {
+    font-family: 'Quattrocento', serif;
+}
+
 #content {
     margin-top: 80px;
 }
