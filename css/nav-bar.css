@@ -31,6 +31,14 @@ body {
     }
 }
 
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+
+ #a:hover + #b {
+    background: #ccc
+}
 
 /* 
 #D7BCC8
