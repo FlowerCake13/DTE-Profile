@@ -8,3 +8,20 @@ img {
 
 #about-me-suck div{
     margin: 10px;
+}
+
+.col-sm-4 {
+    text-align: center;
+}
+
+.col-sm-4 img {
+    padding: 20px;
+}
+
+#clubs div {
+    text-align: center;
+}
+
+#clubs .row .col img{
+    padding: 20px;
+} 
