@@ -34,8 +34,6 @@ img {
     padding: 20px;
 } 
 
-
-
-h3 span, h4 span {
+h3 span, h4 span, h6 span {
 	font-family: 'Quattrocento Sans', sans-serif;
 }
