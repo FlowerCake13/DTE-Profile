@@ -37,3 +37,7 @@ img {
 h3 span, h4 span, h6 span {
 	font-family: 'Quattrocento Sans', sans-serif;
 }
+
+#ex .carousel-indicators button{
+    background-color: black;
+}
