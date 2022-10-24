@@ -34,7 +34,7 @@ img {
     padding: 20px;
 } 
 
-h3 span, h4 span, h6 span {
+h3 span, h4 span, h5 span, h6 span {
 	font-family: 'Quattrocento Sans', sans-serif;
 }
 
@@ -43,8 +43,12 @@ h1 span, h2 span {
     font-size: calc(1rem + .2vw);
 }
 
-#ex .carousel-indicators button{
+#ex .carousel-indicators button, #teaching-slides .carousel-indicators button{
     background-color: black;
+}
+
+.wip {
+    font-family: 'Quattrocento Sans', sans-serif;
 }
 
 /*flip*/
