@@ -22,10 +22,6 @@ img {
     text-align: center;
 }
 
-.col-sm-4 img {
-    padding-right: 20px;
-}
-
 #clubs div {
     text-align: center;
 }
@@ -49,6 +45,11 @@ h1 span, h2 span {
 
 .wip {
     font-family: 'Quattrocento Sans', sans-serif;
+}
+
+.teaching {
+    display: flex;
+    flex-direction: row;
 }
 
 /*flip*/
@@ -103,4 +104,8 @@ h1 span, h2 span {
     background-color: #c5e0dc;
     color: black;
     transform: rotateY(180deg);
+}
+
+#collapseButton {
+    background-color: #333;
 }
